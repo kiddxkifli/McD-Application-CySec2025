@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/McD-Application-CySec2025/", // Will need to be updated to "/your-repo-name/" when you know your repo name
+  base: "/", // Will need to be updated to "/your-repo-name/" when you know your repo name
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),

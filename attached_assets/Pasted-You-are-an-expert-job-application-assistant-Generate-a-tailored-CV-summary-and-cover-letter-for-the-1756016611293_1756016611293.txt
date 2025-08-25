@@ -1,0 +1,35 @@
+You are an expert job application assistant. Generate a tailored CV summary and cover letter for the position of **IT Associate (Cyber Risk Analyst)** in the Food & Beverage industry.  
+
+Candidate’s Profile:  
+- Full Name: Muhammad Kamal Haji Kifli  
+- Location: Brunei Darussalam  
+- Education:  
+  • Level 5 Diploma in Network & Security, Politeknik Brunei  
+  • GCE A Levels, Maktab Duli PMAMB (2009)  
+  • GCE O Levels, SM Perdana Wazir (2006) – English (C), Bahasa Melayu (B), Geography (A), Mathematics (C), Physics (C), Chemistry (C), Biology (D), Principles of Accounts (C)  
+- Certifications: Familiar with CompTIA track, digital forensics, and cybersecurity tools (can expand on Security+, CEH relevance).  
+- Work Experience:  
+  • Digital Marketing Specialist – BUE Enterprise (IT systems, cybersecurity awareness, cloud-based tools)  
+  • IT Support Analyst – CIC Environmental Services (network troubleshooting, endpoint support, incident handling)  
+  • Administrative Secretary (Finance Document Controller) – Brunei Shell Petroleum (policy compliance, audit documentation)  
+  • Gas Plant Operator – Brunei LNG (critical operations, safety compliance, system monitoring)  
+  • Logistic Operation Supervisor – ASAFF Sdn Bhd (risk management, operational continuity)  
+  • Other technical/creative roles: Visual Communications, Marketing & Design, System Support  
+
+Key Strengths to Highlight:  
+- Hands-on knowledge of cybersecurity, network security, IT risk assessment, and endpoint administration.  
+- Experienced in investigating and mitigating incidents (network outages, unauthorized access, system recovery).  
+- Familiar with IT documentation, compliance audits, and liaising with vendors.  
+- Strong cross-industry adaptability (oil & gas, telecom, construction, F&B support).  
+- Excellent communicator able to explain technical risks to non-technical staff.  
+
+Tailor the output to show how the candidate’s background fits the role’s requirements:  
+- Proactive monitoring of IT and cybersecurity threats across head office, POS, and cloud platforms.  
+- Deployment of cybersecurity awareness programs.  
+- Risk assessments and compliance support.  
+- Incident response and vendor liaison.  
+- Staying updated with cyber threats in F&B, POS, and payment systems.  
+
+Final Deliverables:  
+1. A CV summary that emphasizes cybersecurity, IT support, and risk management relevance.  
+2. A confident, professional cover letter (Andrew Tate masculine tone: confident, direct, persuasive) that ties his education, experience, and adaptability to the listed role.  

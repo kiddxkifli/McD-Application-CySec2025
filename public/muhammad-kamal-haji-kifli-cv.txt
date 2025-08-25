@@ -1,0 +1,59 @@
+MUHAMMAD KAMAL HAJI KIFLI
+Digital Marketing Specialist
+📧 kiddkifli@gmail.com  📱 +6737447226  📍 Brunei Darussalam
+
+════════════════════════════════════════════════════════════════════════════════════
+
+SUMMARY                                                                    STRENGTHS
+════════                                                                   ═════════
+Dedicated cybersecurity professional with expertise in network            • Network Security
+security, digital forensics, and OSINT investigations. Currently          • Digital Forensics  
+pursuing Level 5 Diploma in Network & Security at Politeknik Brunei.      • OSINT Investigation
+Proven track record in digital marketing and social media management      • Social Media Marketing
+with strong technical and analytical skills.                              • Content Creation
+                                                                          • Technical Analysis
+
+EXPERIENCE                                                                EDUCATION
+══════════                                                               ═════════
+
+Digital Marketing Specialist (2024 - Present)                           Level 5 Diploma in Network & Security
+Government of Brunei Darussalam                                         Politeknik Brunei - School of ICT (Recent)
+• Social media content creation and management                          Comprehensive program covering network infrastructure,
+• Digital marketing campaigns and analytics                             cybersecurity fundamentals, and system administration
+• Online community engagement and brand promotion
+                                                                        GCE A Levels (2009)
+Social Media Manager (2022 - 2024)                                     Maktab Duli PMAMB
+Various Organizations                                                   Advanced secondary education preparing for higher studies
+• Managed multiple social media platforms
+• Created engaging content and marketing strategies                      GCE O Levels (2006)
+• Increased follower engagement and brand awareness                     SM Perdana Wazir
+                                                                        Strong foundation with distinction in Geography and
+Content Creator (2020 - 2022)                                          credits in multiple subjects including English,
+Freelance                                                               Mathematics, and Sciences
+• Developed multimedia content for various clients
+• Photography and video production                                       TECHNICAL SKILLS
+• Brand storytelling and visual communication                           ═══════════════
+                                                                        • Network Security & Analysis
+PROJECTS                                                                • Digital Forensics Tools
+════════                                                                • OSINT Techniques
+                                                                        • Social Media Marketing
+Digital Forensics Investigation Tool                                    • Content Management Systems
+Custom Python application for analyzing digital evidence                • Adobe Creative Suite
+and metadata extraction from various file formats.                      • Data Analysis & Reporting
+                                                                        • Linux System Administration
+Network Security Assessment Framework                                   
+Comprehensive security auditing tool for identifying                    CERTIFICATIONS & ACHIEVEMENTS
+vulnerabilities in network infrastructure and systems.                  ═══════════════════════════
+                                                                        • Currently pursuing cybersecurity certifications
+OSINT Intelligence Dashboard                                            • Strong academic performance in technical subjects
+Web-based platform for gathering and analyzing                         • Class 3 Driving License
+open-source intelligence from multiple data sources.
+                                                                        LANGUAGES
+Social Media Analytics Platform                                         ═════════
+Advanced analytics dashboard for tracking social                        • English (Fluent)
+media performance across multiple platforms.                            • Malay (Native)
+
+════════════════════════════════════════════════════════════════════════════════════
+Generated: $(date)
+Website: muhammad-kamal-portfolio.replit.app
+Contact: kiddkifli@gmail.com | +6737447226
